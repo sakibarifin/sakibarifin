@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sakibarifin
 - 👀 I’m interested in Blockchain, Python and DLT
 - 🌱 I’m currently learning CS50x and CS50P
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Blockchain or Python projects
 - 📫 How to reach me ...
 
 <!---
