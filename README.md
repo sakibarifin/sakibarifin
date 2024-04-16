@@ -3,7 +3,7 @@
 - 🌱 I took CS50P
 - 🌱 I’m currently learning CS50x and CS50W
 - 💞️ I’m looking to collaborate on Blockchain or Python projects
-- 💞️ I have been coding for about 2 and a half years (Mar 2024)
+- 💞️ I have been coding for about 2 and a half years (MAY 2024)
 - 📫 How to reach me: https://www.linkedin.com/in/md-sakib-arifin/
 
 <!---
