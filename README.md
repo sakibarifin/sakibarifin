@@ -2,8 +2,8 @@
 - 👀 I’m interested in Blockchain, Python and DLT
 - 🌱 I took CS50P
 - 🌱 I’m currently learning CS50x and CS50W
-- 💞️ I’m looking to collaborate on Blockchain or Python projects
-- 💞️ I have been coding for about 2 and a half years (MAY 2024)
+- 💞️ I’m looking to collaborate on Web or Python projects
+- 💞️ I have been coding for about 2 and a half years (Update MAY 2024)
 - 📫 My linkedin: https://www.linkedin.com/in/md-sakib-arifin/
 
 <!---
